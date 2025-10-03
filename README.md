@@ -1,6 +1,6 @@
 # The-primordial-sequence
 An open-source map of reality built on a "source code" called the Primordial Sequence. We explore the four pillars of existence—Mind, Heart, Body, Spirit—and the fifth perspective - HUMANITY -  that unites them all.
-Mission: The Fifth Perspective
+
 This project is an open-source map of reality, built on a simple but profound code: the Primordial Sequence (012345678911223342).
 
 We believe existence arises from four fundamental pillars: Conscious Mind, Generative Heart, Manifested Body, and Unified Spirit. While ancient traditions intuited these patterns, we are now decoding their source logic.
